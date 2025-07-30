@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.env
+
+# Virtualenv
+env/
+venv/
+
+# Laravel
+laravel-frontend/vendor/
+laravel-frontend/node_modules/
+laravel-frontend/.env
+laravel-frontend/public/storage
+laravel-frontend/storage/*.key
