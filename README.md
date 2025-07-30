@@ -115,7 +115,9 @@ DB_CONFIG = {
 
 ## 📸 Screenshots
 
+### Laravel Events Page
 
+![Laravel Events Page](laravel-frontend/Screenshot_30-7-2025_21108_127.0.0.1.png)
 
 ## 📄 License
 
