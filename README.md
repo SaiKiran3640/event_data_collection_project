@@ -117,9 +117,9 @@ DB_CONFIG = {
 
 ### Laravel Events Page
 
-![Laravel Events Page](laravel-frontend/screenshot_1.png)
+![Screenshot 1](laravel-frontend/Screenshot1.png)
 
-![Laravel Events Page](laravel-frontend/screenshot_2.png)
+![Screenshot 2](laravel-frontend/Screenshot2.png)
 
 
 ## 📄 License
