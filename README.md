@@ -1,4 +1,4 @@
-# 🗓️ Event Data Collector with Laravel Frontend Integration
+# 🗓️ Event Data extraction tool with Laravel Frontend Integration
 
 This project is a full-stack application that extracts event data from a public events website (e.g., Eventbrite), stores the data in a MySQL database using Python, and displays the results via a Laravel-based frontend.
 
