@@ -1,10 +1,10 @@
 import mysql.connector
 
 conn = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="#Sql&630",
-    database="eventdb"  # same as .env DB_DATABASE
+    host="local",
+    user="user",
+    password="yourpass",
+    database="db"  # same as .env DB_DATABASE
 )
 cursor = conn.cursor()
 
